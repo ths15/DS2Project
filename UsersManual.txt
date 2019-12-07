@@ -1,0 +1,6 @@
+User's Manual
+
+Makefile was built based on example makefile given under Programming Assignments module.
+
+The program must have both twoStrings.txt and multiStrings.txt within the same folder as the source code. Upon running the makefile, the program 
+should run automatically producing all desired results to the console.
